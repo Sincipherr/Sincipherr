@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Accenture as Security Delivery Analyst Limited</a>
 - 🌱 I’m currently Working on SpringBoot, Java DSA
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: In future I want to work on spark
 - 💬: Ask me about **SpringBoot , OOPS**
 - 📄 Know about my experiences <a href="https://github.com/Sincipherr/Sincipherr/blob/main/Prashanth_N%20-%20Resume.docx" target="blank">Resume</a>
@@ -39,6 +38,17 @@
   </div>
 <br>
 <br>
+  
+  ## ⚡ GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-singh-manhas&show_icons=true&count_private=true&theme=gruvbox"/> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh-manhas&theme=gruvbox" alt="abhishek-singh-manhas" /><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh-manhas&layout=compact&count_private=true&theme=gruvbox" />
+</div></p>
+
+<br>
+<br>
+</p>
   
   ## 📌Reach me..
 
