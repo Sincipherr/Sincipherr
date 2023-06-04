@@ -7,16 +7,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
+<h1>About Me! 😎</h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Accenture as Security Delivery Analyst Limited</a>
-
 - 🌱 I’m currently Working on SpringBoot, Java DSA
-
-- 🌱 In future I want to work on spark
-
-- 💬 Ask me about **SpringBoot , OOPS**
-
+- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
+- 🤔: In future I want to work on spark
+- 💬: Ask me about **SpringBoot , OOPS**
 - 📄 Know about my experiences <a href="https://github.com/Sincipherr/Sincipherr/blob/main/Prashanth_N%20-%20Resume.docx" target="blank">Resume</a>
 <br/>
 
