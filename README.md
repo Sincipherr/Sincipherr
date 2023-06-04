@@ -31,7 +31,7 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   <div align="center">
-<img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
+<img height="300" alt="My Tech Stacks" src="IMGtechstacks.png" />
   </div>
 <br>
 <br>
