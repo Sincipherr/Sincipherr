@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Prashanth+%3C3;Welcome+to+my+profile!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Prashanth+%3C3;Welcome+to+my+profile!" 
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
