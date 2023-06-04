@@ -32,11 +32,11 @@
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   <div align="center">
 <img height="300" alt="My Tech Stacks" src="images/IMGtechstacks.png" />
-</div>
+  </div>
 <br>
 <br>
   
-  ## 📌Reach me
+  ## 📌Reach me..
 
 <p align="center">
    <a href="https://www.linkedin.com/in/prashanth13/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://github.com/peterthehan/peterthehan/blob/d79cc23b62615a0d38ab46bfa3896a4d4bb30c85/assets/linkedin.svg"></a>
