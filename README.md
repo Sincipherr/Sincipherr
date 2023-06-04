@@ -6,12 +6,16 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Securirty Delivery Analyst** at [Accenture]
-- 🏢 Interested to become a developer
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Bangalore**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Accenture as Security Delivery Analyst Limited</a>
+
+- 🌱 I’m currently Working on SpringBoot, Java DSA
+
+- 🌱 In future I want to work on spark
+
+- 💬 Ask me about **SpringBoot , OOPS**
+
+- 📄 Know about my experiences <a href="https://github.com/Sincipherr/Sincipherr/blob/main/Prashanth_N%20-%20Resume.docx" target="blank">Resume</a>
+<br/>
 
 <br>
 <br>
