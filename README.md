@@ -3,7 +3,6 @@
 </h1>
 <br>
 <div align="center">
-<h1 align="center">Hi 👋, I'm Prashanth N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **SpringBoot , Java DSA**
