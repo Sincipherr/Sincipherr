@@ -1,7 +1,8 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-  <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2ef7ab&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Spring+Boot+developer" /></a>
-</p>
+  <h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Prashanth+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
+<br>
 <div align="center">
 <h1 align="center">Hi 👋, I'm Prashanth N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
