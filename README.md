@@ -73,4 +73,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/abhishek-singh-manhas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Sincipherr/count.svg)
